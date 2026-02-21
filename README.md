@@ -1,7 +1,7 @@
 # Hi there, I'm Sojib Ahmed 👋 
 
 <p align="center">
-  <img src="https://github.com/sojibahmed007/sojibahmed007/blob/main/Portfolio/banner.png?raw=true" alt="Sojib Ahmed Banner" width="100%">
+  <img src="./banner.png" alt="Sojib Ahmed Banner" width="100%">
 </p>
 
 ### 🚀 About Me
@@ -23,8 +23,8 @@ I am a dedicated **Front End Developer** and **B.Sc. in CSE** student at Leading
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sojibahmed007&show_icons=true&theme=tokyonight&hide_border=true" alt="Sojib's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojibahmed007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sojibahmed007&show_icons=true&theme=radical" alt="Sojib's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojibahmed007&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
