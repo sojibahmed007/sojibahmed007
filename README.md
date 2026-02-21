@@ -21,12 +21,8 @@ I am a dedicated **Front End Developer** and **B.Sc. in CSE** student at Leading
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sojibahmed007&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Sojib's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sojibahmed007&layout=compact&theme=dark&count_private=true" alt="Top Languages" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sojibahmed007&theme=dark" alt="GitHub Streak" />
 </p>
 
