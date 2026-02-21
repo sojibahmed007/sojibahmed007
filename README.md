@@ -1,7 +1,7 @@
 # Hi there, I'm Sojib Ahmed 👋 
 
 <p align="center">
-  <img src="./banner.png" alt="Sojib Ahmed Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/sojibahmed007/sojibahmed007/main/banner.png" alt="Sojib Ahmed Banner" width="100%">
 </p>
 
 ### 🚀 About Me
@@ -23,11 +23,11 @@ I am a dedicated **Front End Developer** and **B.Sc. in CSE** student at Leading
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sojibahmed007&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Sojib's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sojibahmed007&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Sojib's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojibahmed007&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sojibahmed007&layout=compact&theme=dark&count_private=true" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sojibahmed007&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sojibahmed007&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
